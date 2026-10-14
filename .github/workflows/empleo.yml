@@ -1,0 +1,52 @@
+name: Búsqueda de empleo (manual; sin programación activa)
+on:
+  # Activar solo después de verificar todos los requisitos de docs/OPERACION.md:
+  # schedule:
+  #   - cron: '0 7,8 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Operación
+        type: choice
+        options: [dry-run, check, reconcile, send]
+        default: dry-run
+permissions:
+  contents: write
+concurrency:
+  group: empleo-registro
+  cancel-in-progress: false
+jobs:
+  empleo:
+    # No exponer el registro operativo mediante el workflow de un fork o repo público.
+    if: github.event.repository.private == true && vars.ACTIONS_FREE_QUOTA_CONFIRMED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Pruebas
+        run: python3 -m unittest discover -s tests -v
+      - name: Ejecutar
+        env:
+          MODE: ${{ github.event_name == 'schedule' && 'send' || inputs.mode }}
+          SCHEDULED: ${{ github.event_name == 'schedule' }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GMAIL_CLIENT_ID: ${{ secrets.GMAIL_CLIENT_ID }}
+          GMAIL_CLIENT_SECRET: ${{ secrets.GMAIL_CLIENT_SECRET }}
+          GMAIL_REFRESH_TOKEN: ${{ secrets.GMAIL_REFRESH_TOKEN }}
+          CLOUD_ACTIVATION_APPROVED: ${{ vars.CLOUD_ACTIVATION_APPROVED }}
+          LOCAL_TASK_DISABLED: ${{ vars.LOCAL_TASK_DISABLED }}
+          FINAL_HISTORY_SYNCED: ${{ vars.FINAL_HISTORY_SYNCED }}
+          DURABLE_STORAGE_VERIFIED: ${{ vars.DURABLE_STORAGE_VERIFIED }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$MODE" in
+            dry-run) python3 -m empleo run --store github ;;
+            check) python3 -m empleo check --store github ;;
+            reconcile) python3 -m empleo reconcile --store github ;;
+            send) python3 -m empleo run --store github --send ;;
+            *) exit 2 ;;
+          esac
