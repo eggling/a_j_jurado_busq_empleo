@@ -1,0 +1,77 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "id": "1a139dc4d99a9fbd",
+    "thread_id": "1a139dc4d99a9fbd",
+    "label_ids": [
+      "SENT"
+    ],
+    "snippet": "Empleo psicología Madrid — 14 de octubre de 2026 Primera prueba real Hola David y Antonio: He realizado la primera búsqueda con el CV disponible y el objetivo de unos 20.000 € brutos anuales. Por ahora",
+    "history_id": "11426324",
+    "internal_date": "1791972101000",
+    "payload": {
+      "part_id": "",
+      "mime_type": "text/html",
+      "filename": "",
+      "headers": [
+        {
+          "name": "Received",
+          "value": "from 77377267392 named unknown by gmailapi.google.com with HTTPREST; Wed, 14 Oct 2026 03:01:41 -0700"
+        },
+        {
+          "name": "Received",
+          "value": "from 77377267392 named unknown by gmailapi.google.com with HTTPREST; Wed, 14 Oct 2026 03:01:41 -0700"
+        },
+        {
+          "name": "MIME-Version",
+          "value": "1.0"
+        },
+        {
+          "name": "Content-Type",
+          "value": "text/html; charset=\"UTF-8\""
+        },
+        {
+          "name": "Content-Transfer-Encoding",
+          "value": "base64"
+        },
+        {
+          "name": "Subject",
+          "value": "Empleo psicología Madrid — 14/10/2026 — 3 novedades (prueba)"
+        },
+        {
+          "name": "To",
+          "value": "antoniojose.23.juor@gmail.com, davidmeca93@gmail.com"
+        },
+        {
+          "name": "Date",
+          "value": "Wed, 14 Oct 2026 03:01:41 -0700"
+        },
+        {
+          "name": "Message-Id",
+          "value": "<CAOV1oSV0p670zwu92Q-+UC9sf+M6p8+Cjset9_9BK9THsk1Jaw@mail.gmail.com>"
+        },
+        {
+          "name": "From",
+          "value": "\"David M. P.\" <youcantrememberthis@gmail.com>"
+        }
+      ],
+      "body": {
+        "size": 9277,
+        "base64_url_content": null,
+        "content": "<html><body style=\"font-family:Arial,sans-serif;color:#1f2937;line-height:1.55;max-width:850px;margin:auto;padding:24px\"><h1 style=\"font-size:24px\">Empleo psicología Madrid — 14 de octubre de 2026</h1>\n<h2 style=\"font-size:19px;margin-top:28px\">Primera prueba real</h2>\n<p>Hola David y Antonio:</p>\n<p>He realizado la primera búsqueda con el CV disponible y el objetivo de unos 20.000 € brutos anuales. Por ahora no hay preferencias adicionales de horario o ámbito. Mantengo la prioridad de jornada completa o ingresos suficientes y trayectos cortos o medios.</p>\n<p><strong>Resultado: 3 anuncios para revisar, todos con condiciones pendientes; ninguno está confirmado como encaje completo.</strong> El más relacionado con la formación en envejecimiento es Fundación Alzheimer España, pero hay discrepancia en el plazo. No se ha enviado ninguna candidatura ni compartido el CV.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">1. Fundación Alzheimer España — consultar primero</h2>\n<p><strong>Interesante, pendiente de aclaraciones.</strong> <a href=\"https://psyred.org/empleos-de-psicologia/psicologo-general-sanitario-alzheimer-fundacion-espana-madrid/\">Ver anuncio</a>.</p>\n<p>Trabajo presencial con personas con alzhéimer y familias. Jornada completa: lunes a jueves 09:00–18:00 y viernes 09:00–15:00. Incorporación inmediata según anuncio; la disponibilidad de Antonio todavía no está confirmada. Duración contractual sin publicar. Salario según convenio y complementos: pedir cifra bruta anual por escrito.</p>\n<p>Psyred indica <strong>16/10/2026</strong>, pero una <a href=\"https://www.glassdoor.es/Empleo/colmenar-viejo-psicologo-asociacion-empleos-SRCH_IL.0%2C14_IC2664211_KW15%2C35.htm\">ficha secundaria</a> indexada muestra 07/10/2026 y 24–30 mil euros. No he podido resolver la discrepancia ni abrir la candidatura enlazada en Hacesfalta: hay que confirmar que sigue abierta y qué salario corresponde.</p>\n<p>El máster en envejecimiento y STIMA encajan temáticamente; falta acreditar atención directa a alzhéimer, estimulación y apoyo familiar. <strong>Acción:</strong> preguntar si aceptan la experiencia de prácticas, vigencia y salario. Destacar formación y tareas reales, cuando se detallen.</p>\n<p><strong>Ubicación y trayecto:</strong> la <a href=\"https://alzfae.org/alzfae/\">web de la fundación</a> publica avenida Daroca 80; confirmar que sea el puesto. No hay duración puerta a puerta verificada a la hora de entrada.</p>\n<p><strong>Opiniones laborales:</strong> sin información laboral fiable localizada; no convertir valoraciones de usuarios en valoración del empleador.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">2. Cáritas Madrid — aclarar experiencia antes de candidatarse</h2>\n<p><strong>Alternativa condicionada.</strong> <a href=\"https://es.indeed.com/viewjob?jk=3a046ed080f3b687\">Ver anuncio</a>.</p>\n<p>Centro de día de salud mental en Vallecas. <strong>24.001–30.000 € brutos/año</strong>, jornada completa e indefinido según el texto. Cinco mañanas y preferiblemente tres tardes; un sábado de cada cinco por la mañana. Plazo visible <strong>31/10/2026</strong>; fecha original de publicación no verificada.</p>\n<p>Pide grado, máster sanitario y colegiación. El texto valora la experiencia en exclusión social, pero la ficha exige <strong>más de cinco años</strong>. El CV no acredita ese mínimo: no es una candidatura prioritaria sin aclararlo. <strong>Acción:</strong> preguntar si ese requisito es excluyente, dirección exacta y horario semanal.</p>\n<p><strong>Trayecto:</strong> pendiente por falta de dirección del centro; no se puede asegurar que cumpla la distancia acordada.</p>\n<p><strong>Opiniones:</strong> <a href=\"https://es.indeed.com/cmp/Caritas-Madrid-1/reviews?fcountry=ALL\">Indeed</a> muestra 4,8/5 y 8 reseñas, con testimonios entre 2012 y 2025. Mezcla puestos, centros y voluntariado, incluso otras ubicaciones. Hay menciones positivas al equipo, pero la muestra no permite valorar el centro de Vallecas.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">3. Grupo Salud G&amp;G — alternativa de autónomo</h2>\n<p><strong>Ingresos no garantizados.</strong> <a href=\"https://es.linkedin.com/jobs/view/psic%C3%B3logo-at-grupo-salud-g-g-psicolog%C3%ADa-y-counselling-4476158465\">Ver anuncio en LinkedIn</a>.</p>\n<p>Atención a adultos, principalmente tardes de lunes a viernes, incorporación aproximada en 15 días. Colaboración TRADE, agenda progresiva y <strong>25 € por sesión realizada de 50 minutos</strong>. Declara supervisión mensual y formación interna. No publica cierre ni fecha absoluta verificable.</p>\n<p>La formación sanitaria y las prácticas con adultos pueden encajar. El anuncio menciona experiencia, sin mínimo de años; la etiqueta del portal dice «sin experiencia», por lo que hay que aclararlo. No descarto por el uso del femenino en el anuncio.</p>\n<p>Esto es <strong>facturación, no sueldo</strong>: 800 sesiones a 25 € suman 20.000 € facturados antes de costes e impuestos; no garantizan ingresos equivalentes a un salario de 20.000 € brutos. <strong>Acción:</strong> pedir agenda mínima real, cancelaciones, tareas no facturables y condiciones por escrito.</p>\n<p><strong>Ubicación y trayecto:</strong> <a href=\"https://www.doctoralia.es/clinicas/grupo-salud-g-g\">Doctoralia</a> publica Camino de los Vinateros 95, Moratalaz; confirmar que sea esta vacante. Tiempo puerta a puerta pendiente.</p>\n<p><strong>Opiniones laborales:</strong> no encontradas con fiabilidad. Las de Doctoralia son de pacientes, no de trabajadores; supervisión y formación son promesas del anuncio.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">Otras ofertas revisadas, no recomendadas ahora</h2>\n<p>- <a href=\"https://intress.talentclue.com/es/node/129093290/4590/modal\">Intress, CRPS Puente de Vallecas</a>: exige dos años de experiencia profesional con enfermedad mental y posgrado específico de 60 ECTS; el CV no acredita el conjunto. Tiene remuneración publicada, pero esa carencia impide considerarla encaje confirmado.</p>\n<p>- <a href=\"https://jobs.grupo-crit.com/jobs/psicologo-a-sanitario-f16c0871-c1c3-4cec-9c20-37fa457a6602\">Grupo Crit / IEPP</a>: aparece cerrada en la web del empleador y exige cinco años de experiencia.</p>\n<p>- Varios anuncios del Colegio de Psicología aparecen finalizados. No se han presentado como vacantes nuevas.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">Qué conviene hacer a continuación</h2>\n<p>1. Confirmar hoy la vigencia y condiciones de Fundación Alzheimer España.</p>\n<p>2. Completar las funciones y horas de prácticas antes de valorar requisitos de experiencia.</p>\n<p>3. Aclarar fecha de incorporación/preaviso. Las preferencias abiertas no equivalen a disponibilidad inmediata.</p>\n<p>4. Si interesa trabajar como autónomo, pedir cifras de agenda y costes antes de comparar con el objetivo salarial.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">Alcance y límites de esta prueba</h2>\n<p>Se revisaron fuentes de empleadores, Indeed, LinkedIn, Colegio de Psicología, Psyred, Trabajos.com y otras referencias. DomusVi mostró solo acceso de usuario; hubo errores al abrir Hacesfalta y algunas páginas de Glassdoor. Parte de la información procede de páginas indexadas y puede requerir confirmación.</p>\n<p><strong>Pendiente en esta prueba:</strong> rutas puerta a puerta a la hora de entrada. No he dado minutos inventados ni considerado cumplida la distancia sin comprobarla. La búsqueda de reseñas no ha aportado evidencia sólida del centro concreto en estos casos.</p>\n<p>Este informe y las ofertas observadas quedan guardados en el historial local. Se registrará el ID del envío cuando Gmail lo confirme. No se adjunta el CV ni se reproduce el domicilio.</p>\n<h2 style=\"font-size:19px;margin-top:28px\">Preguntas para completar el CV</h2>\n<p>1. ¿Cuántas horas de prácticas hiciste en total y durante qué meses?</p>\n<p>2. ¿Qué tareas realizabas tú, cuáles con supervisión y cuáles solo observabas?</p>\n<p>3. ¿Con qué población trabajaste: edades, motivos de consulta y dificultades habituales?</p>\n<p>4. ¿Hiciste entrevistas, evaluaciones, sesiones individuales, grupos o atención a familiares? ¿Con qué frecuencia?</p>\n<p>5. ¿Qué pruebas, cuestionarios y técnicas utilizaste realmente? Distingue lo aplicado de lo estudiado en clase.</p>\n<p>6. ¿Redactaste informes clínicos o forenses, planes de intervención o registros de seguimiento? ¿Qué parte elaborabas tú?</p>\n<p>7. En STIMA, ¿qué actividades de estimulación o rehabilitación cognitiva preparabas y dirigías? ¿Trabajaste con personas con alzhéimer y sus familiares?</p>\n<p>8. En Princesa 81, ¿participabas en el seguimiento de casos? ¿Qué responsabilidad tenías y cómo te supervisaban?</p>\n<p>9. En las prácticas forenses, ¿qué hiciste concretamente y en qué tipo de equipos o servicios?</p>\n<p>10. ¿Qué aportaciones puedes describir con datos aproximados: sesiones, talleres, evaluaciones o materiales preparados? No es necesario atribuir resultados clínicos que no estén medidos.</p>\n<p>11. ¿Hay formación complementaria relevante que no figure en el CV? ¿El máster sanitario está finalizado y dispones del título o justificante?</p></body></html>",
+        "attachment_id": null
+      },
+      "read_attachment_supported": null,
+      "parts": null
+    },
+    "size_estimate": 13218,
+    "classification_label_values": null,
+    "raw": null
+  },
+  "isError": false
+}

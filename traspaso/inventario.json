@@ -1,0 +1,57 @@
+[
+  {
+    "file": "traspaso-original/TRASPASO_NUBE.md",
+    "sha256": "9757b44fcbcdd9ffe57400a4608a82cca00c2817f5b9e09f28d5268fd27bf1f5",
+    "bytes": 12477
+  },
+  {
+    "file": "traspaso-original/historial-inicial.json",
+    "sha256": "7d2313ff2680a913449781d80812b4d330cc910254ab4e1b769ed1cc28df2571",
+    "bytes": 50229
+  },
+  {
+    "file": "traspaso-original/PREFERENCIAS_ANTONIO.md",
+    "sha256": "4d2a7a06f4d22504053632b3a8970e89358b0bb17759e6a59cc155a794dfdbd9",
+    "bytes": 1560
+  },
+  {
+    "file": "traspaso-original/PREGUNTAS_CV_ANTONIO.md",
+    "sha256": "9cd2116890b78914a2bd7c7619a32106201d70e277559e02f6bd74430e303c4e",
+    "bytes": 2137
+  },
+  {
+    "file": "traspaso-original/informes/2026-10-14-e9ef1754bac1.md",
+    "sha256": "3689d7187db4b6446b699ab864bee306ca970c2d8f64038e5dcbc8efcb4b4d36",
+    "bytes": 8203
+  },
+  {
+    "file": "copia-drive/correo-confirmado-1a139dc4d99a9fbd.json",
+    "sha256": "7dd70d03bcd4f0f5a0041e02c844f58d96a31c0e5f9994ce58136e0a063fe04e",
+    "bytes": 11555
+  },
+  {
+    "file": "copia-drive/historial-inicial.json",
+    "sha256": "6f47053d7f5d6262b00df526102ab939b88b463a490ea2a80143528560286d11",
+    "bytes": 48690
+  },
+  {
+    "file": "copia-drive/registro-empleo-antonio.json",
+    "sha256": "58d86bafe34b7417b73e25d2b6e3bf19d0649b15ac70b032aacddd481951d915",
+    "bytes": 50539
+  },
+  {
+    "file": "copia-drive/instrucciones-duraderas.md",
+    "sha256": "e77553f50ecb1f01fcb3ffc25630e45601c94583ef06ecc4f7d920e75f85c4c8",
+    "bytes": 10543
+  },
+  {
+    "file": "copia-drive/programacion-cloud-preparada.json",
+    "sha256": "761edbf9e7df4fb62e4be8c89d311ad09288ebbb85d2af6bb0efd1a8bd3acc18",
+    "bytes": 6194
+  },
+  {
+    "file": "copia-drive/informe-2026-10-14.md",
+    "sha256": "cc59d79bff0bead1a85c795418dcebecae331a22912fe39cf60792c436e5c981",
+    "bytes": 8129
+  }
+]

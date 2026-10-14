@@ -1,0 +1,20 @@
+# Datos privados y credenciales
+.env
+.env.*
+!.env.example
+/secrets/
+/data/
+/reports/
+/backups/
+/attachments/
+*.sqlite
+*.sqlite3
+*.db
+*.zip
+token.json
+credentials.json
+__pycache__/
+.venv/
+
+# Archivos originales del traspaso incluidos por petición del usuario
+!/traspaso/archivos-originales/*.zip
