@@ -36,3 +36,7 @@ Obtener una instantánea final del historial local y conciliarla con el registro
 ## Estado real
 
 No hay aplicación implementada, Gmail conectado, búsqueda web conectada, almacenamiento duradero verificado ni programación creada en esta sesión. No se han enviado correos. La preparación del repositorio no completa por sí sola el traspaso operativo.
+
+## Complemento de perfil
+
+Para próximas búsquedas, aplicar también `traspaso/ACTUALIZACION_PERFIL_ANTONIO.md`, basado en el documento aportado el 14/10/2026. Actualiza las respuestas disponibles sin alterar informes ni envíos históricos.
